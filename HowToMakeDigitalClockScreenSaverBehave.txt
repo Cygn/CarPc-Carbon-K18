@@ -1,0 +1,2 @@
+cd addons/screensaver.digitalclock/resources/skins/default/720p 
+cp skin.estouchy.xml skin.CarPc-Carbon.xml
