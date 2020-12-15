@@ -44,6 +44,7 @@
 				<param name="textbox-width-episodes" value="810"/>
 			</include>
 		</control>
+   		<include>ScrollBarCommons</include>
    		<include>PlayerControlCommons</include>
 <!--
 		<include>BottomMenu</include>
@@ -52,6 +53,7 @@
 			<param name="panel-height">520</param>
 		</include>
 -->
-		<include>DayNight</include>
+		<include>ScrollOffsetLabel</include>
+        <include>DayNight</include>
 	</controls>
 </window>
