@@ -14,5 +14,7 @@ You can subscribe to my Youtube chanel !
 
 This skin is base on skin.estouchy
 
-
+-------------------
+Cygn: 15/12/2020
+made keyboard smaller for 720p screens
 

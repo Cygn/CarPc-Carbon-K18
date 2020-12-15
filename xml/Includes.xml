@@ -2012,11 +2012,11 @@
 		</item>
 	</include>
 	<include name="KeyboardButton">
-		<width>140</width>
-		<height>140</height>
+		<width>100</width>
+		<height>100</height>
 		<texturenofocus >square.png</texturenofocus>
 		<texturefocus>list_focus.png</texturefocus>
-		<font>font70_title</font>
+		<font>font30</font>
 		<align>center</align>
 		<aligny>center</aligny>
 	</include>
