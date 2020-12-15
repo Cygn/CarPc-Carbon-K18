@@ -1,5 +1,6 @@
-v1.0.1
-made keyboard smaller for 720p screens  - Cygn 15/12/2020
+v1.0.1 - Cygn 15/12/2020
+- made keyboard smaller for 720p screens
+- removed the mouse cursor (Pointer.xml)
 
 V1.0.0
 - Initial release
